@@ -6,4 +6,4 @@ b= ("Orange")
 print(type(b))  # str
 
 c = ("Orange",)
-print(type(c))   # tuple
+print(type(c))  # tuple
